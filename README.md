@@ -1,6 +1,6 @@
 ### Hi there 😁, my name is Loïc.
 #### I am web developper since several years.
-I'm currently learning Flutter to develop personal projects on Android, IOS and the web and discover new languages.
+I'm currently learning Flutter to develop personal projects on Android, IOS, the web and discover new languages.
 
 Skills: Symfony / Bootstrap / Flutter / Javascript
 
